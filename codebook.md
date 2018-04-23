@@ -1,12 +1,19 @@
 CODEBOOK
-This codebook describes the project variable as well as the process 
+This codebook describes the project variable as well as the process
+## Data
+The data that use in this project is called **Human Activity Recognition Using Smartphones Data Set**
+The data collected from the accelerometers from the Samsung Galaxy S smartphones can be download by the link below
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+for more information about this data you can visit
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Variable 
 **Identifier** 
  * `subject_id`
  * `activity`
  
-**Measured variable**
+**Measured variables**
 
  * `timeBodyAccelerometerMeanX`
  * `timeBodyAccelerometerMeanY`
