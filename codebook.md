@@ -3,8 +3,8 @@ This codebook describes the project variable as well as the process
 
 Variable 
 * Identifier 
- * 'subject_id'
- * 'activity'
+ * `subject_id`
+ * `activity`
 
 * Measured variable
  * 'timeBodyAccelerometerMeanX'
