@@ -2,10 +2,10 @@
 # Coursera : Getting and Cleaning Data Course Project
 This repository is the part of my learning at coursera
 # Repository file list:
-- 'readme.md' : this file, provides an overview of the project.
-- 'codebook.md' : describes the containts and process procedure for the data set using in this project
-- 'run_analysis.r' : the script file contains R script for creating a tiny data for this project.
-- 'tidy_data_set.txt' : an ouput tidy data set from r script.
+- 'readme.md', : this file, provides an overview of the project.
+- 'codebook.md', : describes the containts and process procedure for the data set using in this project
+- 'run_analysis.r', : the script file contains R script for creating a tiny data for this project.
+- 'tidy_data_set.txt', : an ouput tidy data set from r script.
 
 # Project summary:
 
