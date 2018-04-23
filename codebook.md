@@ -21,7 +21,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 1. Mapping factor name(activities)
 1. Rename data name (column names) to provides easy to understand names.
 1. Create a tiny data set by average each variable for each activity and each subject.
-1. Ouput a file call *tiny_data_set.txt*
+1. Ouput a file call *tidy_data_set.txt*
 
 ## Final tidy daya variables
 
