@@ -1,6 +1,8 @@
 # Getting-and-Cleaning-Data-Course-Project
 Coursera : Getting and Cleaning Data Course Project
+
 Project summary:
+
 1. Merges the training and the test sets to create one data set.
 1. Extracts only the measurements on the mean and standard deviation for each measurement.
 1. Uses descriptive activity names to name the activities in the data set
