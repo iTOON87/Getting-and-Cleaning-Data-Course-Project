@@ -25,8 +25,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
  * `activity` : Six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
  
 **Measured variables**
-prefix *time* refer to *time domain signals*
-prefix *frequency* refer to *frequency domain signals*
+prefix *time* refer to *time domain signals*;
+prefix *frequency* refer to *frequency domain signals*;
 
  * `timeBodyAccelerometerMeanX`
  * `timeBodyAccelerometerMeanY`
