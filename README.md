@@ -1,5 +1,7 @@
 # Coursera : Getting and Cleaning Data Course Project
 This repository is the part of my learning at coursera
+**run_analysis.r** is the script to create a tidy data from data collects from the smartphones
+for more detail abou the data please refer to **codebook.md**
 
 # Repository file list:
 - **readme.md**: this file, provides an overview of the project.
