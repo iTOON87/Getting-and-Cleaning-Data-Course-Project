@@ -1,11 +1,13 @@
 CODEBOOK
 This codebook describes the project variable as well as the process 
 
-Variable 
+## Variable 
 **Identifier** 
  * `subject_id`
  * `activity`
+ 
 **Measured variable**
+
  * `timeBodyAccelerometerMeanX`
  * `timeBodyAccelerometerMeanY`
  * `timeBodyAccelerometerMeanZ`
