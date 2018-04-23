@@ -2,7 +2,7 @@ CODEBOOK
 This codebook describes the project variable as well as the process
 ## Data
 The data that use in this project is called **Human Activity Recognition Using Smartphones Data Set**<br/>
-The data collected from the accelerometers from the Samsung Galaxy S smartphones can be download by the link below<br/>
+The data collected from the sensors from the Samsung Galaxy S smartphones can be download by the link below<br/>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip<br/>
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 `In this project we combine both test and train data to create a single data set`
